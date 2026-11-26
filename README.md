@@ -14,7 +14,6 @@ This GitHub is where I publish that work: delivery templates, program case studi
 | Repository | What it is | Status |
 |---|---|---|
 | [**ai-proposes-pm-decides**](https://github.com/richard-pmcollab/ai-proposes-pm-decides) | **Flagship.** Open-source n8n agent team for PMs: an orchestrator and Status, Schedule, RAID and Comms specialists. The PM approves before anything is written. | v1 in testing |
-| [**canstart**](https://github.com/richard-pmcollab/canstart) | Two-sided job platform connecting Canadian newcomers with employers (York University capstone) | Active |
 | **pm-delivery-toolkit** | PMP-aligned templates: charter, RAID log, RACI, status report, change request, retro | In progress |
 | **program-case-studies** | One-page write-ups of programs I've delivered: problem, approach, outcome | In progress |
 | **ai-pm-playbook** | Short guides on using agents in delivery work, and when not to | In progress |
