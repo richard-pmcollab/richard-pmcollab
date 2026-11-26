@@ -1,4 +1,4 @@
-# Richard Waridtel
+# Casper Richard Roy
 
 **Senior Program Manager · PMP · Agentic AI for project delivery**
 Ottawa, Canada
