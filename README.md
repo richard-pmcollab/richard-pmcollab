@@ -11,12 +11,27 @@ This GitHub is where I publish that work: delivery templates, program case studi
 
 ## What's here
 
-| Repository | What it is | Status |
-|---|---|---|
-| [**ai-proposes-pm-decides**](https://github.com/richard-pmcollab/ai-proposes-pm-decides) | **Flagship.** Open-source n8n agent team for PMs: an orchestrator and Status, Schedule, RAID and Comms specialists. The PM approves before anything is written. | v1 in testing |
-| **pm-delivery-toolkit** | PMP-aligned templates: charter, RAID log, RACI, status report, change request, retro | In progress |
-| **program-case-studies** | One-page write-ups of programs I've delivered: problem, approach, outcome | In progress |
-| **ai-pm-playbook** | Short guides on using agents in delivery work, and when not to | In progress |
+### [AI Proposes. The PM Decides.](https://github.com/richard-pmcollab/ai-proposes-pm-decides) (flagship)
+
+Seven open-source AI agents for project managers, built in n8n. They do the weekly grunt work and send me **one clear proposal**; nothing is written to any system until I approve it, and every decision is logged.
+
+| Agent | What it does |
+|---|---|
+| **PM Agent Team** | An orchestrator briefs Status, Schedule, RAID and Comms specialists, then reviews their work into one weekly proposal |
+| **Weekly Status** | Scores project health with fixed rules and drafts the status report |
+| **Meeting → Actions** | Turns a transcript into decisions and actions with owners, due dates and supporting quotes |
+| **Stakeholder Translator** | Writes executive, team and client versions of one update, with a leak check on the client version |
+| **Intake Triage** | Prioritises requests by rules, spots duplicates, routes them and drafts the reply |
+| **Retro Synthesizer** | Turns anonymous team feedback into themes and up to 3 measurable actions |
+| **Daily Slip Alert** | Emails me only when a milestone moves, with the cause, knock-on risk and options |
+
+**Status:** all 7 live-tested end to end · one-click setup · [beginner install guide](https://github.com/richard-pmcollab/ai-proposes-pm-decides/blob/main/INSTALL.md) · [install with an AI assistant](https://github.com/richard-pmcollab/ai-proposes-pm-decides/blob/main/AI-INSTALL.md)
+
+### Coming next
+
+- **pm-delivery-toolkit:** PMP-aligned templates (charter, RAID log, RACI, status report, change request, retro)
+- **program-case-studies:** one-page write-ups of programs I've delivered
+- **ai-pm-playbook:** short guides on using AI agents in delivery work, and when not to
 
 ---
 
