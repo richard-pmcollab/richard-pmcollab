@@ -25,7 +25,7 @@ Seven open-source AI agents for project managers, built in n8n. They do the week
 | **Retro Synthesizer** | Turns anonymous team feedback into themes and up to 3 measurable actions |
 | **Daily Slip Alert** | Emails me only when a milestone moves, with the cause, knock-on risk and options |
 
-**Status:** all 7 live-tested end to end · one-click setup · [beginner install guide](https://github.com/richard-pmcollab/ai-proposes-pm-decides/blob/main/INSTALL.md) · [install with an AI assistant](https://github.com/richard-pmcollab/ai-proposes-pm-decides/blob/main/AI-INSTALL.md)
+**Status:** all 7 live-tested end to end · one-command installer, or say *"install the PM agents"* in Claude Code · [install guide](https://github.com/richard-pmcollab/ai-proposes-pm-decides/blob/main/INSTALL.md) · [run it on your own project](https://github.com/richard-pmcollab/ai-proposes-pm-decides/blob/main/inputs/README.md)
 
 ### Coming next
 
