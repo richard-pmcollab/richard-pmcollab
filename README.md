@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00b3ff&height=170&section=header&text=Casper%20Richard%20Roy&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Senior%20Program%20Manager%20%C2%B7%20PMP%20%C2%B7%20Agentic%20AI%20for%20project%20delivery&descSize=16&descAlignY=60" alt="Casper Richard Roy, Senior Program Manager, PMP, Agentic AI for project delivery" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00b3ff&height=170&section=header&text=Casper%20Richard%20Roy&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Senior%20Program%20Delivery%20Manager%20%C2%B7%20Building%20the%20AI%20team%20that%20reports%20to%20the%20PM.&descSize=16&descAlignY=60" alt="Casper Richard Roy, Senior Program Delivery Manager. Building the AI team that reports to the PM." width="100%">
 </p>
 
 <p align="center">
@@ -109,7 +109,7 @@ This GitHub is where I publish that work: delivery templates, program case studi
   </tr>
 </table>
 
-<p align="center">📚 Currently studying: AI and agentic systems for business</p>
+<p align="center">📚 Currently exploring: AI and agentic systems for business</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b3ff,100:0d1117&height=110&section=footer" alt="" width="100%">
