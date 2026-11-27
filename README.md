@@ -3,14 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3500&pause=900&color=00B3FF&center=true&vCenter=true&width=640&lines=I+run+programs+end+to+end%3A+plan%2C+risk%2C+people%2C+delivery;I+build+AI+agents+that+propose.+People+decide.;Open+to+Senior+PM+and+Program+roles+in+Canada" alt="I run programs end to end. I build AI agents that propose; people decide. Open to Senior PM and Program roles in Canada.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3500&pause=900&color=00B3FF&center=true&vCenter=true&width=640&lines=I+run+programs+end+to+end%3A+plan%2C+risk%2C+people%2C+delivery;I+build+AI+agents+that+propose.+People+decide." alt="I run programs end to end. I build AI agents that propose; people decide.">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Ottawa%2C%20Canada-0d1117?style=for-the-badge&labelColor=00b3ff" alt="Location: Ottawa, Canada">
-  <img src="https://img.shields.io/badge/PMP-Certified-0d1117?style=for-the-badge&labelColor=00b3ff" alt="PMP certified">
-  <img src="https://img.shields.io/badge/Open%20to-Hybrid%20%7C%20Remote-0d1117?style=for-the-badge&labelColor=00b3ff" alt="Open to hybrid or remote roles">
-  <img src="https://komarev.com/ghpvc/?username=richard-pmcollab&label=Profile%20views&color=00b3ff&style=for-the-badge" alt="Profile views">
+  <img src="https://img.shields.io/badge/Location-Ottawa%2C%20ON%2C%20Canada-0d1117?style=for-the-badge&labelColor=00b3ff" alt="Location: Ottawa, ON, Canada">
 </p>
 
 ---
@@ -101,14 +98,18 @@ This GitHub is where I publish that work: delivery templates, program case studi
 
 ## Credentials
 
-- 🎓 **PMP®** (Project Management Professional, PMI)
-- 📚 Currently studying: AI and agentic systems for business
+<table align="center">
+  <tr>
+    <td align="center" width="118"><img src="assets/icons/pmi.png" width="48" height="48" alt="Project Management Professional"><br><sub><b>PMP</b></sub></td>
+    <td align="center" width="118"><img src="assets/icons/peoplecert.png" width="48" height="48" alt="ITIL Version 5 Foundation"><br><sub><b>ITIL 5 Foundation</b></sub></td>
+    <td align="center" width="118"><img src="assets/icons/scrum-alliance.png" width="48" height="48" alt="Certified ScrumMaster"><br><sub><b>CSM</b></sub></td>
+    <td align="center" width="118"><img src="assets/icons/scrum-alliance.png" width="48" height="48" alt="Certified Scrum Product Owner"><br><sub><b>CSPO</b></sub></td>
+    <td align="center" width="118"><img src="assets/icons/peoplecert.png" width="48" height="48" alt="PRINCE2 Agile Practitioner"><br><sub><b>PRINCE2 Agile</b></sub></td>
+    <td align="center" width="118"><img src="assets/icons/aws.png" width="48" height="48" alt="AWS Certified Cloud Practitioner"><br><sub><b>AWS Cloud Practitioner</b></sub></td>
+  </tr>
+</table>
 
----
-
-## Contact
-
-Open to Senior PM and Program Manager roles in Ottawa, hybrid or remote across Canada.
+<p align="center">📚 Currently studying: AI and agentic systems for business</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b3ff,100:0d1117&height=110&section=footer" alt="" width="100%">
