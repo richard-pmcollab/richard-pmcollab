@@ -65,38 +65,37 @@ This GitHub is where I publish that work: delivery templates, program case studi
 
 <table align="center">
   <tr>
-    <td align="right" width="150"><b>Delivery and planning</b></td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/jira/00b3ff" width="40" height="40" alt="Jira"><br>Jira</td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/confluence/00b3ff" width="40" height="40" alt="Confluence"><br>Confluence</td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/atlassian/00b3ff" width="40" height="40" alt="Atlassian Rovo"><br>Atlassian Rovo</td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/asana/00b3ff" width="40" height="40" alt="Asana"><br>Asana</td>
-  </tr>
-  <tr>
-    <td align="right" width="150"><b>Reporting and design</b></td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/looker/00b3ff" width="40" height="40" alt="Looker"><br>Looker</td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/lucid/00b3ff" width="40" height="40" alt="Lucidspark"><br>Lucidspark</td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/figma/00b3ff" width="40" height="40" alt="Figma"><br>Figma</td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/google/00b3ff" width="40" height="40" alt="Google Workspace"><br>Google Workspace</td>
-  </tr>
-  <tr>
-    <td align="right" width="150"><b>AI and automation</b></td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/n8n/00b3ff" width="40" height="40" alt="n8n"><br>n8n</td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/make/00b3ff" width="40" height="40" alt="Make.com"><br>Make.com</td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/claude/00b3ff" width="40" height="40" alt="Claude Code"><br>Claude Code</td>
-    <td align="center" width="96"></td>
+    <td align="center" width="92"><img src="https://api.iconify.design/logos/jira.svg" width="40" height="40" alt="Jira"><br><sub>Jira</sub></td>
+    <td align="center" width="92"><img src="https://api.iconify.design/logos/confluence.svg" width="40" height="40" alt="Confluence"><br><sub>Confluence</sub></td>
+    <td align="center" width="92"><img src="https://api.iconify.design/logos/atlassian.svg" width="40" height="40" alt="Atlassian Rovo"><br><sub>Atlassian Rovo</sub></td>
+    <td align="center" width="92"><img src="https://api.iconify.design/logos/asana-icon.svg" width="40" height="40" alt="Asana"><br><sub>Asana</sub></td>
+    <td align="center" width="92"><img src="assets/icons/smartsheet.png" width="40" height="40" alt="Smartsheet"><br><sub>Smartsheet</sub></td>
+    <td align="center" width="92"><img src="https://api.iconify.design/logos/monday-icon.svg" width="40" height="40" alt="Monday.com"><br><sub>Monday.com</sub></td>
+    <td align="center" width="92"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-project.svg" width="40" height="40" alt="Project / Planner"><br><sub>Project / Planner</sub></td>
+    <td align="center" width="92"><img src="https://api.iconify.design/devicon/servicenow.svg" width="40" height="40" alt="ServiceNow"><br><sub>ServiceNow</sub></td>
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Smartsheet-161b22?style=for-the-badge" alt="Smartsheet">
-  <img src="https://img.shields.io/badge/Monday.com-161b22?style=for-the-badge" alt="Monday.com">
-  <img src="https://img.shields.io/badge/ServiceNow-161b22?style=for-the-badge" alt="ServiceNow">
-  <img src="https://img.shields.io/badge/Microsoft%20365-161b22?style=for-the-badge" alt="Microsoft 365">
-  <img src="https://img.shields.io/badge/Microsoft%20Project%20%2F%20Planner-161b22?style=for-the-badge" alt="Microsoft Project / Planner">
-  <img src="https://img.shields.io/badge/Power%20Automate-161b22?style=for-the-badge" alt="Power Automate">
-  <img src="https://img.shields.io/badge/Tableau-161b22?style=for-the-badge" alt="Tableau">
-  <img src="https://img.shields.io/badge/Visio-161b22?style=for-the-badge" alt="Visio">
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="92"><img src="https://api.iconify.design/selfhst/microsoft-365.svg" width="40" height="40" alt="Microsoft 365"><br><sub>Microsoft 365</sub></td>
+    <td align="center" width="92"><img src="https://api.iconify.design/logos/google-icon.svg" width="40" height="40" alt="Google Workspace"><br><sub>Google Workspace</sub></td>
+    <td align="center" width="92"><img src="https://api.iconify.design/logos/tableau-icon.svg" width="40" height="40" alt="Tableau"><br><sub>Tableau</sub></td>
+    <td align="center" width="92"><img src="https://api.iconify.design/logos/looker-icon.svg" width="40" height="40" alt="Looker"><br><sub>Looker</sub></td>
+    <td align="center" width="92"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-visio.svg" width="40" height="40" alt="Visio"><br><sub>Visio</sub></td>
+    <td align="center" width="92"><img src="assets/icons/lucidspark.png" width="40" height="40" alt="Lucidspark"><br><sub>Lucidspark</sub></td>
+    <td align="center" width="92"><img src="https://api.iconify.design/logos/figma.svg" width="40" height="40" alt="Figma"><br><sub>Figma</sub></td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center" width="92"><img src="https://api.iconify.design/devicon/n8n.svg" width="40" height="40" alt="n8n"><br><sub>n8n</sub></td>
+    <td align="center" width="92"><img src="https://api.iconify.design/thesvg-color/make.svg" width="40" height="40" alt="Make.com"><br><sub>Make.com</sub></td>
+    <td align="center" width="92"><img src="https://api.iconify.design/selfhst/microsoft-power-automate.svg" width="40" height="40" alt="Power Automate"><br><sub>Power Automate</sub></td>
+    <td align="center" width="92"><img src="https://api.iconify.design/logos/claude-icon.svg" width="40" height="40" alt="Claude Code"><br><sub>Claude Code</sub></td>
+  </tr>
+</table>
 
 ---
 
